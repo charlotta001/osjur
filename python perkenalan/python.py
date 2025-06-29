@@ -18,10 +18,10 @@ class Perkenalan:
         )
 
 # Data perkenalan
-nama = "Hafizh Nurfitrian Syah"
-prodi = "Informatika"
-hobi = ["membaca buku", "menggambar anime"]
-mimpi = "Machine Learning Engineer"
+nama = "Charlotta"
+prodi = "Informatics"
+hobi = ["reading book", "drawing anime"]
+mimpi = "Blockchain Engineer"
 
 # Membuat objek dari kelas Perkenalan
 perkenalan_diri = Perkenalan(nama, prodi, hobi, mimpi)
